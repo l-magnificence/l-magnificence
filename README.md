@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on analyses of scRNA-seq and scATAC-seq data
-- 🌱 I’m currently learning vascular mimicry in cancer biology
+- 🌱 I’m currently learning vascular mimicry in cancer biology 
 <!--
 **l-magnificence/l-magnificence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
