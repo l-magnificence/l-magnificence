@@ -1,6 +1,4 @@
-#![l-magnificence's github stats](https://github-readme-stats.vercel.app/api?username=l-magnificence&show_icons=true)  
-#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-magnificence&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-magnificence)](https://github.com/anuraghazra/github-readme-stats)
+![l-magnificence's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-magnificence&show_icons=true&theme=radical)
 
 
 ### Hi there 👋
