@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on analyses of scRNA-seq and scATAC-seq data
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-l-magnificence&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-magnificence&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=l-magnificence&theme=dark)](https://git.io/streak-stats)
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=l-magnificence&custom_title=GitHub+Stats&theme=highcontrast&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/l-magnificence)
 
 <!--
 **l-magnificence/l-magnificence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
